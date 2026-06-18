@@ -1,3 +1,5 @@
+# 本项目完全由Deepseek生成
+
 # GOGH Stream Overlay v35
 
 在 GOGH（Focus with Your Avatar）多人模式下，为数位屏物品添加实时摄像头串流覆盖层。
